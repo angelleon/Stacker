@@ -91,7 +91,13 @@ namespace Calculadorastack
         {
             Parser parser = new Parser(txtdatos.Text);
             txtdatos.Text = Convert.ToString(parser.Operacion());
-            //txtprocedimiento.Text=Convert.
+            Stack stack = parser.Operacion();
+            for (string s in stack)
+            {
+                txtprocedimiento.Text += s;
+                // txtprocedimiento.Text = txtprocedimiento.Text + s;
+
+            }
 
         }
 
