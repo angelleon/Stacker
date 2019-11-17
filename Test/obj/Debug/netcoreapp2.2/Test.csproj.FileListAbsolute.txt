@@ -1,0 +1,11 @@
+/home/angel/calculadorastack/Test/bin/Debug/netcoreapp2.2/Test.deps.json
+/home/angel/calculadorastack/Test/bin/Debug/netcoreapp2.2/Test.runtimeconfig.json
+/home/angel/calculadorastack/Test/bin/Debug/netcoreapp2.2/Test.runtimeconfig.dev.json
+/home/angel/calculadorastack/Test/bin/Debug/netcoreapp2.2/Test.dll
+/home/angel/calculadorastack/Test/bin/Debug/netcoreapp2.2/Test.pdb
+/home/angel/calculadorastack/Test/obj/Debug/netcoreapp2.2/Test.csprojAssemblyReference.cache
+/home/angel/calculadorastack/Test/obj/Debug/netcoreapp2.2/Test.csproj.CoreCompileInputs.cache
+/home/angel/calculadorastack/Test/obj/Debug/netcoreapp2.2/Test.AssemblyInfoInputs.cache
+/home/angel/calculadorastack/Test/obj/Debug/netcoreapp2.2/Test.AssemblyInfo.cs
+/home/angel/calculadorastack/Test/obj/Debug/netcoreapp2.2/Test.dll
+/home/angel/calculadorastack/Test/obj/Debug/netcoreapp2.2/Test.pdb

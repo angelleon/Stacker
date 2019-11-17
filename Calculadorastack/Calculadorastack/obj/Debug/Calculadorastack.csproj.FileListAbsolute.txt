@@ -1,0 +1,22 @@
+c:\users\carlos\documents\visual studio 2012\Projects\Calculadorastack\Calculadorastack\bin\Debug\Calculadorastack.exe.config
+\\192.168.10.1\calculadorastack\Calculadorastack\Calculadorastack\bin\Debug\Calculadorastack.exe.config
+\\PAVILION-14\calculadorastack\Calculadorastack\Calculadorastack\bin\Debug\Calculadorastack.exe.config
+\\192.168.10.1\calculadorastack\Calculadorastack\Calculadorastack\bin\Debug\Calculadorastack.exe
+\\192.168.10.1\calculadorastack\Calculadorastack\Calculadorastack\bin\Debug\Calculadorastack.pdb
+\\192.168.10.1\calculadorastack\Calculadorastack\Calculadorastack\obj\Debug\Calculadorastack.Form1.resources
+\\192.168.10.1\calculadorastack\Calculadorastack\Calculadorastack\obj\Debug\Calculadorastack.Properties.Resources.resources
+\\192.168.10.1\calculadorastack\Calculadorastack\Calculadorastack\obj\Debug\Calculadorastack.csproj.GenerateResource.Cache
+\\192.168.10.1\calculadorastack\Calculadorastack\Calculadorastack\obj\Debug\Calculadorastack.exe
+\\192.168.10.1\calculadorastack\Calculadorastack\Calculadorastack\obj\Debug\Calculadorastack.pdb
+\\PAVILION-14\calculadorastack\Calculadorastack\Calculadorastack\obj\Debug\Calculadorastack.exe
+\\PAVILION-14\calculadorastack\Calculadorastack\Calculadorastack\obj\Debug\Calculadorastack.pdb
+\\192.168.10.1\calculadorastack\Calculadorastack\Calculadorastack\obj\Debug\Calculadorastack.csprojAssemblyReference.cache
+Z:\Calculadorastack\Calculadorastack\obj\Debug\Calculadorastack.csprojAssemblyReference.cache
+Z:\Calculadorastack\Calculadorastack\obj\Debug\Calculadorastack.Form1.resources
+Z:\Calculadorastack\Calculadorastack\obj\Debug\Calculadorastack.Properties.Resources.resources
+Z:\Calculadorastack\Calculadorastack\obj\Debug\Calculadorastack.csproj.GenerateResource.cache
+Z:\Calculadorastack\Calculadorastack\obj\Debug\Calculadorastack.exe
+Z:\Calculadorastack\Calculadorastack\obj\Debug\Calculadorastack.pdb
+Z:\Calculadorastack\Calculadorastack\bin\Debug\Calculadorastack.exe.config
+Z:\Calculadorastack\Calculadorastack\bin\Debug\Calculadorastack.exe
+Z:\Calculadorastack\Calculadorastack\bin\Debug\Calculadorastack.pdb

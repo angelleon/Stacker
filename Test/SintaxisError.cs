@@ -1,0 +1,1 @@
+/home/angel/calculadorastack/Calculadorastack/Calculadorastack/SintaxisError.cs
