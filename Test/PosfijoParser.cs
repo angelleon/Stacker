@@ -12,7 +12,7 @@ namespace Calculadorastack {
         }
 
         private void push(float val) {
-            printDbgBegin("push");
+            //printDbgBegin("push");
             Console.WriteLine("pushing into stack: " + val);
             this.stack[this.stackTop] = val;
             this.stackTop++;
@@ -23,13 +23,13 @@ namespace Calculadorastack {
             if (this.stackTop < 0) {
                 throw new ArgumentosInsuficientes();
             }
-            printDbgEnd("pop");
-            Console.WriteLine("poping from stack: " + this.stack[this.stackTop])
+            //printDbgEnd("pop");
+            Console.WriteLine("poping from stack: " + this.stack[this.stackTop]);
             return this.stack[this.stackTop];
         }
 
         public float Operacion() {
-            printDbgBegin("Operacion");
+            //printDbgBegin("Operacion");
             while (!FinDeEntrada()) {
                 if (char.IsDigit(Actual())) {
                     push(getInt());
