@@ -20,3 +20,9 @@ Z:\Calculadorastack\Calculadorastack\obj\Debug\Calculadorastack.pdb
 Z:\Calculadorastack\Calculadorastack\bin\Debug\Calculadorastack.exe.config
 Z:\Calculadorastack\Calculadorastack\bin\Debug\Calculadorastack.exe
 Z:\Calculadorastack\Calculadorastack\bin\Debug\Calculadorastack.pdb
+C:\Users\carlos\Documents\GitHub\Stacker\Calculadorastack\Calculadorastack\obj\Debug\Calculadorastack.csprojAssemblyReference.cache
+C:\Users\carlos\Documents\GitHub\Stacker\Calculadorastack\Calculadorastack\obj\Debug\Calculadorastack.Form1.resources
+C:\Users\carlos\Documents\GitHub\Stacker\Calculadorastack\Calculadorastack\obj\Debug\Calculadorastack.Properties.Resources.resources
+C:\Users\carlos\Documents\GitHub\Stacker\Calculadorastack\Calculadorastack\obj\Debug\Calculadorastack.csproj.GenerateResource.cache
+C:\Users\carlos\Documents\GitHub\Stacker\Calculadorastack\Calculadorastack\obj\Debug\Calculadorastack.exe
+C:\Users\carlos\Documents\GitHub\Stacker\Calculadorastack\Calculadorastack\obj\Debug\Calculadorastack.pdb
