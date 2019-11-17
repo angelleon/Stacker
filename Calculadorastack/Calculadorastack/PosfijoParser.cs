@@ -5,17 +5,24 @@ namespace Calculadorastack {
         private float[] stack;
         private int stackTop;
 
+        private Stack operStack;
+
         //Array procedimiento = new Array[];
 
         public PosfijoParser(string operacionCruda) : base(operacionCruda) {
             this.stackTop = 0;
             this.stack = new float[operacionCruda.Length];
+            this.operStack = new Stack(operacionCruda.Length);
             printDbg("operacionCruda " + operacionCruda);
+        }
+
+        public Stack getStack() {
+            return this.operStack;
         }
 
         private void push(float val) {
             printDbgBegin("push");
-            Console.WriteLine("pushing into stack: " + val);
+            this.operStack.push("pushing into stack: " + val);
             this.stack[this.stackTop] = val;
             this.stackTop++;
         }
@@ -26,7 +33,7 @@ namespace Calculadorastack {
                 throw new ArgumentosInsuficientes();
             }
             printDbgEnd("pop");
-            Console.WriteLine("poping from stack: " + this.stack[this.stackTop]);
+            this.operStack.push("poping from stack: " + this.stack[this.stackTop]);
             return this.stack[this.stackTop];
         }
 
@@ -41,29 +48,31 @@ namespace Calculadorastack {
                     Avanzar();
                     float b = pop();
                     float a = pop();
-                    Console.WriteLine("adding " + a + " + " + b);
+                    this.operStack.push("adding " + a + " + " + b);
                     push(a + b);
                 } else if (Actual() == '-') {
                     Avanzar();
                     float b = pop();
                     float a = pop();
-                    Console.WriteLine("adding " + a + " - " + b);
+                    this.operStack.push("substracting " + a + " - " + b);
                     push(a - b);
                 } else if (Actual() == '*') {
                     Avanzar();
                     float b = pop();
                     float a = pop();
-                    Console.WriteLine("adding " + a + " / " + b);
+                    this.operStack.push("multiplying " + a + " * " + b);
                     push(a * b);
                 } else if (Actual() == '/') {
                     Avanzar();
                     float b = pop();
                     float a = pop();
+                    this.operStack.push("dividing " + a + " / " + b);
                     push(a / b);
                 } else if (Actual() == '%') {
                     Avanzar();
                     float b = pop();
                     float a = pop();
+                    this.operStack.push("dividing " + a + " * " + b);
                     push(a % b);
                 } else {
                     throw new SintaxisError();

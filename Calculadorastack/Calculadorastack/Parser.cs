@@ -7,6 +7,8 @@ namespace Calculadorastack {
         func terminadas; 
         func noterminadas;*/
 
+        private Stack stack;
+
         public Parser(string operacionCruda) : base(operacionCruda) {}
 
         public float Operacion() {
